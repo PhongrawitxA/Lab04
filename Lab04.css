@@ -1,0 +1,22 @@
+
+.cell.black{
+    background-color: black;
+
+}
+.cell.white{
+    background-color: white;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    border:50px solid gray;
+}
+tr{
+    margin: 50px solid black;
+}
+td{
+    margin: 50px solid black;
+}
